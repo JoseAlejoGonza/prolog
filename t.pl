@@ -26,3 +26,4 @@ adicional(tco, 0.25).
 adicional(mto, 0.10). 
 adicional(hc, 0).
 adicional(honorarios, 0).
+#esto no es un comentario
