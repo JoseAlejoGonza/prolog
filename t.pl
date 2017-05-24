@@ -12,18 +12,3 @@ contrato(honorarios, titular, 60000).
 contrato(honorarios, asistente, 50000).
 contrato(honorarios, auxiliar, 60000).
 semestre(18).
-empleado(juan, tco, titular, 40).
-empleado(miguel, mto, auxiliar, 22). 
-empleado(maria, honorarios, asistente, 8). 
-empleado(andrea, tco, auxiliar, 12). 
-empleado(andres, mto, titular, 15). 
-empleado(jose, tco, asistente, 30). 
-empleado(carlos, hc, titular, 24). 
-empleado(jhon, hc, auxiliar, 16). 
-empleado(daniel, mto, titular, 19). 
-empleado(tatiana, tco, auxiliar, 20).
-adicional(tco, 0.25).
-adicional(mto, 0.10). 
-adicional(hc, 0).
-adicional(honorarios, 0).
-#esto no es un comentario
